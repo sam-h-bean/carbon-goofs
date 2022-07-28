@@ -1,0 +1,3 @@
+/Users/marklar/CLionProjects/carbon-goofs/cmake-build-debug/CMakeFiles/carbon_goofs.dir
+/Users/marklar/CLionProjects/carbon-goofs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marklar/CLionProjects/carbon-goofs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
